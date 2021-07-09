@@ -1,12 +1,12 @@
 # Site settings
-name: Mychell Teixeira
-description: "Software Engineer, and Consultant in Natal, RN, Brazil"
+name: Mayana Clésia
+description: "Estudante de Sistemas para Internet, IFRN, Natal, Brasil"
 url: ""
 
 # Delete the lines you don't need
 # about 5 elements are recomended
-github_username: mychellt
-linkedin_username: mychellt
+github_username: mayanac
+linkedin_username: mayana-clesia-869a351a3
 blog_url: "/blog"
 email: your-email@example.domain
 public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
